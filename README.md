@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Pedro e sou estudante de Tecnologia da Informação, cursando Análise e Desenvolvimento de Sistemas na CESAR School. Estou disponível para atuar na área e tenho interesse em desenvolvimento backend e Inteligência Artificial, mantendo abertura para novos desafios e diferentes frentes de atuação.
+Olá chamo-me Pedro e sou estudante de Tecnologia da Informação, cursando Análise e Desenvolvimento de Sistemas na CESAR School. Estou disponível para atuar na área e tenho interesse em desenvolvimento backend e Inteligência Artificial, mantendo abertura para novos desafios e diferentes frentes de atuação.
 
 Aqui você encontrará projetos acadêmicos desenvolvidos na faculdade, iniciativas em parceria com o Porto Digital e também projetos pessoais, que refletem meu aprendizado e evolução contínua.
 
