@@ -91,12 +91,5 @@ Aqui você encontrará projetos acadêmicos desenvolvidos na faculdade, iniciati
     src="https://github-readme-stats.vercel.app/api?username=Pedrosol-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosol-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
 
