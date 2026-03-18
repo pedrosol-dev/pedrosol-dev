@@ -3,15 +3,15 @@
 Desenvolvedor em formação, estudando **Análise e Desenvolvimento de Sistemas** na **CESAR School**.  
 Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolução contínua, projetos práticos e colaboração.
 
-## Sobre mim
+## 🙋🏻‍♂️Sobre mim
 - Estudante de ADS na CESAR School
-- Interesse em backend e IA
-- Participação em projetos acadêmicos, parcerias e projetos pessoais
+- Interesse em backend e Inteligência Artificial
+- Participação em projetos acadêmicos e pessoais
 - Buscando crescer com desafios reais
 
 ###
 
-<h2 align="left">🤖 Linguagens e Tecnologia</h3>
+<h2 align="left">🛠️Tecnologias</h3>
 
 ###
 
@@ -33,7 +33,7 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
 </div>
 
-## 🔗Contato
+## 📫Contato
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pedro-sol-393271378" target="_blank">
@@ -43,6 +43,12 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="gmail logo" />
   </a>
 </div>
+
+## 🚀 Projetos em destaque
+
+- **[Nome do Projeto](LINK)** — breve descrição em 1 linha
+- **[Nome do Projeto](LINK)** — breve descrição em 1 linha
+- **[Nome do Projeto](LINK)** — breve descrição em 1 linha
 
 ## 📊Estatísticas
 
