@@ -49,12 +49,12 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
 
 ###
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://streak-stats.demolab.com?user=pedrosol-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
     </td>
-    <td>
+    <td style="padding-left: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosol-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
     </td>
   </tr>
