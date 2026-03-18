@@ -44,7 +44,7 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
   </a>
 </div>
 
-## Estatísticas
+## 📊Estatísticas
 
 <div align="center">
   <img
