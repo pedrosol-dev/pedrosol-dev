@@ -99,3 +99,6 @@ Aqui você encontrará projetos acadêmicos desenvolvidos na faculdade, iniciati
   />
 
 </p>
+<a href="https://github.com/pedrosol-dev/github-readme-stats">
+    <img height="150" align="center" src="https://camo.githubusercontent.com/20c25c8ab9c86e8d217f2ffac1fccf11abd70b01e911321179e18de24235c1eb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d47542d32312673686f775f69636f6e733d74727565267468656d653d7261646963616c" data-canonical-src="https://github-readme-stats.vercel.app/api?username=MGT-21&amp;show_icons=true&amp;theme=radical" style="max-width: 100%; height: auto; max-height: 150px;">
+  </a>
