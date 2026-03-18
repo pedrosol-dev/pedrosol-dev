@@ -33,7 +33,7 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
 </div>
 
-## Contato
+## 🔗Contato
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pedro-sol-393271378" target="_blank">
