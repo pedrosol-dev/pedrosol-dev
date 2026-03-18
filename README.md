@@ -1,9 +1,9 @@
-# 👩🏻‍💻Pedro Sol
+# 👩🏻‍💻 Pedro Sol
 
 Desenvolvedor em formação, estudando **Análise e Desenvolvimento de Sistemas** na **CESAR School**.  
 Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolução contínua, projetos práticos e colaboração.
 
-## 🙋🏻‍♂️Sobre mim
+## 🙋🏻‍♂️ Sobre mim
 - Estudante de ADS na CESAR School
 - Interesse em backend e Inteligência Artificial
 - Participação em projetos acadêmicos e pessoais
@@ -33,7 +33,7 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
 </div>
 
-## 📫Contato
+## 📫 Contato
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pedro-sol-393271378" target="_blank">
@@ -46,11 +46,11 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
 
 ## 🚀 Projetos em destaque
 
-- **[Nome do Projeto](LINK)** — breve descrição em 1 linha
-- **[Nome do Projeto](LINK)** — breve descrição em 1 linha
-- **[Nome do Projeto](LINK)** — breve descrição em 1 linha
+- **[dj-thread](https://github.com/pedrosol-dev/dj-thread)** — simulador de mesa de DJ em **Java com Spring Boot**, com uso de **threads** e sincronização.
+- **[NTTData_Education](https://github.com/pedrosol-dev/NTTData_Education)** — solução de **Engenharia de Dados** desenvolvida na **Residência NTT DATA + Porto Digital + CESAR School**, integrando dados do **INEP, ENEM e ENADE** em arquitetura **Lakehouse Medalhão**. Projeto reconhecido com **1º lugar** na iniciativa.
+- **[corteDaVerdade](https://github.com/pedrosol-dev/corteDaVerdade)** — jogo educativo de terminal em **C**, voltado para o ensino de **Lógica Proposicional**, com desafios baseados em tautologias e tabelas-verdade.
 
-## 📊Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
   <img
