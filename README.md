@@ -64,7 +64,7 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
     alt="GitHub stats"
   />
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosol-dev&locale=pt-br&layout=compact&card_width=320&langs_count=8&theme=dracula&hide=html,css"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosol-dev&locale=pt-br&layout=compact&langs_count=8&card_width=320&theme=dracula&hide=html,css"
   height="150"
   alt="Linguagens mais usadas"
 />
