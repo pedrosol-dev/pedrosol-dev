@@ -42,9 +42,6 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
   <a href="mailto:pedrosol.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="gmail logo" />
   </a>
-  <a href="https://discord.com/users/SEU_ID" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28" alt="discord logo" />
-  </a>
 </div>
 
 ## Estatísticas
@@ -54,7 +51,7 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosol-dev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrosol-dev/pedrosol-dev/output/pacman-contribution-graph-dark.svg">
