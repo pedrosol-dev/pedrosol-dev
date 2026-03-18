@@ -11,7 +11,7 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
 
 ###
 
-<h3 align="left">🤖 Linguagens e Tecnologia</h3>
+<h2 align="left">🤖 Linguagens e Tecnologia</h3>
 
 ###
 
@@ -49,15 +49,16 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pedrosol-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosol-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=pedrosol-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosol-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+    </td>
+  </tr>
+</table>
 
 ###
 
