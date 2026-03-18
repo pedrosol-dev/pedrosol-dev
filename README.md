@@ -1,4 +1,4 @@
-# Pedro Sol
+# 👩🏻‍💻Pedro Sol
 
 Desenvolvedor em formação, estudando **Análise e Desenvolvimento de Sistemas** na **CESAR School**.  
 Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolução contínua, projetos práticos e colaboração.
