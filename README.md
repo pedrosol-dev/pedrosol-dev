@@ -46,9 +46,14 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
 
 ## 🚀 Projetos em destaque
 
-- **[dj-thread](https://github.com/pedrosol-dev/dj-thread)** — simulador de mesa de DJ em **Java com Spring Boot**, com uso de **threads** e sincronização.
-- **[NTTData_Education](https://github.com/pedrosol-dev/NTTData_Education)** — solução de **Engenharia de Dados** desenvolvida na **Residência NTT DATA + Porto Digital + CESAR School**, integrando dados do **INEP, ENEM e ENADE** em arquitetura **Lakehouse Medalhão**. Projeto reconhecido com **1º lugar** na iniciativa.
-- **[corteDaVerdade](https://github.com/pedrosol-dev/corteDaVerdade)** — jogo educativo de terminal em **C**, voltado para o ensino de **Lógica Proposicional**, com desafios baseados em tautologias e tabelas-verdade.
+- **[dj-thread](https://github.com/pedrosol-dev/dj-thread)**  
+  Simulador de mesa de DJ em **Java com Spring Boot**, com uso de **threads** e sincronização.
+
+- **[NTTData_Education](https://github.com/pedrosol-dev/NTTData_Education)**  
+  Solução de **Engenharia de Dados** da Residência **NTT DATA + Porto Digital + CESAR School**, integrando dados do **INEP, ENEM e ENADE** em arquitetura **Lakehouse Medalhão**. Projeto reconhecido com **1º lugar**.
+
+- **[corteDaVerdade](https://github.com/pedrosol-dev/corteDaVerdade)**  
+  Jogo educativo de terminal em **C**, voltado ao ensino de **Lógica Proposicional**, com desafios baseados em tautologias e tabelas-verdade.
 
 ## 📊 Estatísticas
 
