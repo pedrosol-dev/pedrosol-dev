@@ -11,11 +11,11 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
 
 ###
 
-<h3 align="center">🤖 Linguagens e Tecnologia</h3>
+<h3 align="left">🤖 Linguagens e Tecnologia</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
@@ -35,7 +35,7 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/pedro-sol-393271378">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
