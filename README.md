@@ -47,30 +47,6 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
 ## Estatísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pedrosol-dev&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosol-dev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-##
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Pedrosol-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrosol-dev/pedrosol-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrosol-dev/pedrosol-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedrosol-dev/pedrosol-dev/output/pacman-contribution-graph.svg">
-</picture>
-
-## Estatísticas
-
-<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=pedrosol-dev&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
     height="150"
@@ -82,6 +58,16 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
     alt="Linguagens mais usadas"
   />
 </div>
+
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrosol-dev/pedrosol-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrosol-dev/pedrosol-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedrosol-dev/pedrosol-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+
 
 
 
