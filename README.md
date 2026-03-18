@@ -68,5 +68,20 @@ Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolu
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedrosol-dev/pedrosol-dev/output/pacman-contribution-graph.svg">
 </picture>
 
+## Estatísticas
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pedrosol-dev&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
+    height="150"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosol-dev&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=dracula"
+    height="150"
+    alt="Linguagens mais usadas"
+  />
+</div>
+
 
 
