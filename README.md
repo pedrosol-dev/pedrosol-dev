@@ -1,12 +1,13 @@
-<h1 align="center">👩🏻‍💻Pedro Sol</h1>
+# Pedro Sol
 
-###
+Desenvolvedor em formação, estudando **Análise e Desenvolvimento de Sistemas** na **CESAR School**.  
+Tenho interesse em **backend** e **Inteligência Artificial**, com foco em evolução contínua, projetos práticos e colaboração.
 
-<h6 align="left">Desenvolvedor</h6>
-
-###
-
-<p align="left">Olá chamo-me Pedro e sou estudante de Tecnologia da Informação, cursando Análise e Desenvolvimento de Sistemas na CESAR School. Estou disponível para atuar na área e tenho interesse em desenvolvimento backend e Inteligência Artificial, mantendo abertura para novos desafios e diferentes frentes de atuação.<br><br>Aqui você encontrará projetos acadêmicos desenvolvidos na faculdade, iniciativas em parceria com o Porto Digital e também projetos pessoais, que refletem meu aprendizado e evolução contínua.</p>
+## Sobre mim
+- Estudante de ADS na CESAR School
+- Interesse em backend e IA
+- Participação em projetos acadêmicos, parcerias e projetos pessoais
+- Buscando crescer com desafios reais
 
 ###
 
